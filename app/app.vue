@@ -1,13 +1,11 @@
 <template>
-	<div>
-		<AppHeader />
+	<AppHeader />
 
-		<main>
-			<NuxtPage />
-		</main>
-		
-		<AppFooter />
-	</div>
+	<main>
+		<NuxtPage />
+	</main>
+	
+	<AppFooter />
 </template>
 
 <script setup>
