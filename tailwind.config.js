@@ -24,7 +24,8 @@ module.exports = {
         '9xl': '4096px',
       },
       fontFamily: {
-        NeueMontreal: ['"neue_montrealregular"', 'sans-serif'],
+        NeueMontrealRegular: ['"neue_montrealregular"', 'sans-serif'],
+        NeueMontrealMedium: ['"neue_montrealmedium"', 'sans-serif'],
         Anton: ['"antonregular"', 'sans-serif'],
       },
     }
